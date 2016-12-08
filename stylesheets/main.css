@@ -1,0 +1,25 @@
+body{
+  background:#07072b;
+  color:white;
+  text-align:center;
+  padding:calc(8% + 30px) calc(20% - 60px);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size:calc(1.1vw + 15px);
+}
+
+#links a{
+  color:rgba(233, 233, 233, 0.46);
+  text-decoration:none;
+  display:inline-block;
+  margin:1.5%;
+}
+
+footer{
+  background:#ef033b;
+  height:10%;
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+}
